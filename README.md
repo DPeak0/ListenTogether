@@ -9,6 +9,8 @@ ListenTogether 是一个聚合多平台音源的音乐播放器,并提供基于P
 - **收藏页**:本地收藏歌曲、创建歌单、收藏外部歌单/合集。
 - **一起听**:多人同步播放、暂停、切歌、队列、进度。
 
+## 开始使用
+https://microsoftedge.microsoft.com/addons/detail/dolakgbjamcghhhgopmijhdknibaobmp
 
 ## 注意事项
 
